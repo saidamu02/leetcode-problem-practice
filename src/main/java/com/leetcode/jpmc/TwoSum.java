@@ -4,15 +4,15 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class JavaDemo {
+public class TwoSum {
 
 	public static void main(String[] args) {
 
 		int nums[] = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 		int targetValue = 15;
 
-		JavaDemo javaDemo = new JavaDemo();
-		javaDemo.sumOfValue(nums, targetValue);
+		TwoSum twoSum = new TwoSum();
+		twoSum.sumOfValue(nums, targetValue);
 
 	}
 

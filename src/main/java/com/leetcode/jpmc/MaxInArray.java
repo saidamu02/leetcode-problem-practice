@@ -1,4 +1,4 @@
-package com.leetcode.easy;
+package com.leetcode.jpmc;
 
 import java.util.Arrays;
 

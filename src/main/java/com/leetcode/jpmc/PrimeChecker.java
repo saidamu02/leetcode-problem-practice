@@ -1,4 +1,4 @@
-package com.leetcode.easy;
+package com.leetcode.jpmc;
 
 public class PrimeChecker {
 	public static boolean isPrime(int num) {
